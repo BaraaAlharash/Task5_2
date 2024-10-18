@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 320px;
+}
+.main input{
+    height: 50px;
+}
+.main_result{
+    border: 2px solid black;
+    border-radius: 9px;
+}
